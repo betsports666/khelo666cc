@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://https://khelo666.cc/sitemap.xml
+Sitemap: https://khelo666.cc/sitemap.xml
